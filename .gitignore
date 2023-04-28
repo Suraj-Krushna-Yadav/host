@@ -1,0 +1,6 @@
+DATABASE.sqlite3
+__pycache__
+static/Resources
+poppler-0.68.0
+Tesseract-OCR
+requirments.txt
